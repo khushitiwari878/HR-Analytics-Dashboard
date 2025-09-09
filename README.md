@@ -27,7 +27,7 @@ The goal is to help HR managers and business leaders make **data-driven decision
 ## 📷 Dashboard Preview  
 
 ### HR Dashboard (Summary View)  
-![HR Dashboard](images/hr_dashboard_summary.png)  
+https://github.com/khushitiwari878/HR-Analytics-Dashboard/blob/main/HR-Analytics-Dashboard.png 
 
 ### Detailed View (Employee Data Table)  
 ![HR Dashboard Detailed](images/hr_dashboard_detailed.png)  
