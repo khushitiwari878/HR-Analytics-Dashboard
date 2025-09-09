@@ -30,7 +30,7 @@ The goal is to help HR managers and business leaders make **data-driven decision
 https://github.com/khushitiwari878/HR-Analytics-Dashboard/blob/main/HR-Analytics-Dashboard.png 
 
 ### Detailed View (Employee Data Table)  
-![HR Dashboard Detailed](images/hr_dashboard_detailed.png)  
+https://github.com/khushitiwari878/HR-Analytics-Dashboard/blob/main/HR-Dashboard%20Detailed-View.png
 
 ---
 
